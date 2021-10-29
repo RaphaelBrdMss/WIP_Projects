@@ -1,2 +1,2 @@
 # WIP_Projects
-Project I'm working on
+Project I'm working with Anna Diani this year
