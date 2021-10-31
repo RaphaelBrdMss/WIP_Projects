@@ -12,12 +12,13 @@ https://dev.to/stokry/how-to-calculate-the-distance-between-the-objects-in-the-i
 
 https://github.com/VigneswaranB97/Finding-distance-between-objects-in-an-image-using-OpenCV
 
+Tutos swift
+
+https://medium.com/@yiweini/opencv-with-swift-step-by-step-c3cc1d1ee5f1
+
 Articles
 
-Segmentation d'image par détection de contours et algorithme "ligne de partage des eaux" : https://www.lama.univ-savoie.fr/mediawiki/index.php/Segmentation_d%27image_par_détection_de_contours_et_algorithme_%22ligne_de_partage_des_eaux%22
-
-Classification d'images et localisation d'objets par des méthodes de type noyau de Fisher : https://tel.archives-ouvertes.fr/tel-01071581/document
-
-
-
+- Cirecle detection on images using genetic algorithms (Victor Ayala-Ramirez , Carlos H. Garcia-Capulin, Arturo Perez-Garcia, Raul E. Sanchez-Yanez)
+- An Efficient Randomized Algorithm for Detecting Circles (Teh-Chuan Chen and Kuo-Liang Chung)
+- Fast Circle Detection Using Gradient Pair Vectors ( Ali Ajdari Rad, Karim Faez, Navid Qaragozlou )
 
