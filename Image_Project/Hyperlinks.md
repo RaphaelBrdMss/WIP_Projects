@@ -21,4 +21,6 @@ Articles
 - Cirecle detection on images using genetic algorithms (Victor Ayala-Ramirez , Carlos H. Garcia-Capulin, Arturo Perez-Garcia, Raul E. Sanchez-Yanez)
 - An Efficient Randomized Algorithm for Detecting Circles (Teh-Chuan Chen and Kuo-Liang Chung)
 - Fast Circle Detection Using Gradient Pair Vectors ( Ali Ajdari Rad, Karim Faez, Navid Qaragozlou )
+- Modèles de contours actifs pour la segmentation d’images et de vidéos ( Muriel Gastaud )
+- Classification d’images et localisation d’objets par des méthodes de type noyau de Fisher ( Ramazan Gokberk Cinbis )
 
