@@ -24,3 +24,9 @@ Articles
 - Modèles de contours actifs pour la segmentation d’images et de vidéos ( Muriel Gastaud )
 - Classification d’images et localisation d’objets par des méthodes de type noyau de Fisher ( Ramazan Gokberk Cinbis )
 
+Autres :
+
+- Transformée de Hough : https://fr.wikipedia.org/wiki/Transformée_de_Hough
+- Segmentation d'image par détection de contours et algorithme "ligne de partage des eaux" : https://www.lama.univ-savoie.fr/mediawiki/index.php/Segmentation_d%27image_par_détection_de_contours_et_algorithme_%22ligne_de_partage_des_eaux%22
+
+
