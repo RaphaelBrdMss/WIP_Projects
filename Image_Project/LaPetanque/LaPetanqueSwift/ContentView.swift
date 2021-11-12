@@ -8,9 +8,33 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var showPicker : Bool = false
+    @State private var image : Image? = nil
     var body: some View {
-        Text("\(Wrapper.openCVVersionString())")
-            .padding()
+        
+        image?.resizable()
+            .scaledToFit()
+        VStack{
+            Button("Appareil photo") {
+                self.showPicker = true
+            }
+            .padding(20)
+            .background(Color.blue)
+            .foregroundColor(Color.white)
+            .cornerRadius(20)
+            
+        }.sheet(isPresented: self.$showPicker){
+            PhotoCapture(showPicker: self.$showPicker, image: self.$image)
+        }
+        
+        
+        
+            
+            
+        
+        
+        
+        
     }
 }
 

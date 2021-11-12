@@ -7,10 +7,16 @@
 
 #ifndef Wrapper_h
 #define Wrapper_h
+#import <UIKit/UIKit.h>
 #include <Foundation/Foundation.h>
 
+
+
 @interface Wrapper: NSObject
-+ (NSString *)openCVVersionString;
+
+
++(UIImage *) findCircle : (UIImage *) image;
+
 @end
 
 #endif /* Wrapper_h */

@@ -20,7 +20,8 @@
 		C32B2528273923A7009676C5 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C32B2527273923A7009676C5 /* CoreGraphics.framework */; };
 		C32B252C27392435009676C5 /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C32B252B27392435009676C5 /* CoreFoundation.framework */; };
 		C32B252F27392529009676C5 /* Wrapper.mm in Sources */ = {isa = PBXBuildFile; fileRef = C32B252E27392529009676C5 /* Wrapper.mm */; };
-		C37697E22739837C0016218A /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C37697E12739837C0016218A /* Storyboard.storyboard */; };
+		C36F5609273C3B7D00DDD8DB /* Picker.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36F5608273C3B7D00DDD8DB /* Picker.swift */; };
+		C36F560B273C64E600DDD8DB /* PhotoCapture.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36F560A273C64E600DDD8DB /* PhotoCapture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,7 +62,8 @@
 		C32B252E27392529009676C5 /* Wrapper.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = Wrapper.mm; sourceTree = "<group>"; };
 		C32B253027392575009676C5 /* Wrapper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Wrapper.h; sourceTree = "<group>"; };
 		C32B253127392860009676C5 /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
-		C37697E12739837C0016218A /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		C36F5608273C3B7D00DDD8DB /* Picker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picker.swift; sourceTree = "<group>"; };
+		C36F560A273C64E600DDD8DB /* PhotoCapture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCapture.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +101,13 @@
 			children = (
 				C32B253127392860009676C5 /* PrefixHeader.pch */,
 				C32B253027392575009676C5 /* Wrapper.h */,
+				C32B252D27392528009676C5 /* LaPetanque-Bridging-Header.h */,
 				C32B252E27392529009676C5 /* Wrapper.mm */,
 				C32B24F527392307009676C5 /* LaPetanqueSwift */,
 				C32B250627392307009676C5 /* LaPetanqueTests */,
 				C32B251027392308009676C5 /* LaPetanqueUITests */,
 				C32B24F427392307009676C5 /* Products */,
 				C32B25222739238C009676C5 /* Frameworks */,
-				C32B252D27392528009676C5 /* LaPetanque-Bridging-Header.h */,
 			);
 			sourceTree = "<group>";
 		};
@@ -124,7 +126,8 @@
 			children = (
 				C32B24F627392307009676C5 /* LaPetanqueApp.swift */,
 				C32B24F827392307009676C5 /* ContentView.swift */,
-				C37697E12739837C0016218A /* Storyboard.storyboard */,
+				C36F560A273C64E600DDD8DB /* PhotoCapture.swift */,
+				C36F5608273C3B7D00DDD8DB /* Picker.swift */,
 				C32B24FA27392307009676C5 /* Assets.xcassets */,
 				C32B24FC27392307009676C5 /* Preview Content */,
 			);
@@ -176,8 +179,8 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C32B251727392308009676C5 /* Build configuration list for PBXNativeTarget "LaPetanque" */;
 			buildPhases = (
-				C32B24EF27392307009676C5 /* Sources */,
 				C32B24F027392307009676C5 /* Frameworks */,
+				C32B24EF27392307009676C5 /* Sources */,
 				C32B24F127392307009676C5 /* Resources */,
 			);
 			buildRules = (
@@ -276,7 +279,6 @@
 			files = (
 				C32B24FE27392307009676C5 /* Preview Assets.xcassets in Resources */,
 				C32B24FB27392307009676C5 /* Assets.xcassets in Resources */,
-				C37697E22739837C0016218A /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -303,6 +305,8 @@
 			files = (
 				C32B24F927392307009676C5 /* ContentView.swift in Sources */,
 				C32B24F727392307009676C5 /* LaPetanqueApp.swift in Sources */,
+				C36F560B273C64E600DDD8DB /* PhotoCapture.swift in Sources */,
+				C36F5609273C3B7D00DDD8DB /* Picker.swift in Sources */,
 				C32B252F27392529009676C5 /* Wrapper.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -475,6 +479,7 @@
 				);
 				GCC_PREFIX_HEADER = "$(SRCROOT)/PrefixHeader.pch";
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Pouvez-vous nous donner l'accès svp";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -514,6 +519,7 @@
 				);
 				GCC_PREFIX_HEADER = "$(SRCROOT)/PrefixHeader.pch";
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Pouvez-vous nous donner l'accès svp";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

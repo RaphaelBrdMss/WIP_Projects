@@ -12,5 +12,8 @@
 // You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
 #ifdef __cplusplus
 #include <opencv2/opencv.hpp>
+#import <opencv2/imgcodecs/ios.h>
+
+
 #endif
 #endif /* PrefixHeader_pch */
