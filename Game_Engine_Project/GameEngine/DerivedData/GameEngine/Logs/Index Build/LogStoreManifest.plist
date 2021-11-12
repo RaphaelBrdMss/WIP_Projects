@@ -1,0 +1,5281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>006D9A25-A206-48E2-B183-BE7D88515D9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>006D9A25-A206-48E2-B183-BE7D88515D9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439838.90665495</real>
+			<key>timeStoppedRecording</key>
+			<real>658439838.913885</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>006D9A25-A206-48E2-B183-BE7D88515D9B</string>
+		</dict>
+		<key>02402CD9-9006-40F0-8297-136598F0FE5F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>02402CD9-9006-40F0-8297-136598F0FE5F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441484.00428903</real>
+			<key>timeStoppedRecording</key>
+			<real>658441484.01059401</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>02402CD9-9006-40F0-8297-136598F0FE5F</string>
+		</dict>
+		<key>0430F2E7-80AB-447E-8D60-8825A587155E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0430F2E7-80AB-447E-8D60-8825A587155E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441369.20180202</real>
+			<key>timeStoppedRecording</key>
+			<real>658441369.21013606</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>0430F2E7-80AB-447E-8D60-8825A587155E</string>
+		</dict>
+		<key>04A712ED-8AA9-4FC5-8904-52D566206132</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>04A712ED-8AA9-4FC5-8904-52D566206132.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440515.35418701</real>
+			<key>timeStoppedRecording</key>
+			<real>658440515.36136603</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>04A712ED-8AA9-4FC5-8904-52D566206132</string>
+		</dict>
+		<key>10714745-5EC0-4C9A-9F16-9B06B00AA9E2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>10714745-5EC0-4C9A-9F16-9B06B00AA9E2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440922.82309902</real>
+			<key>timeStoppedRecording</key>
+			<real>658440922.82973003</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>10714745-5EC0-4C9A-9F16-9B06B00AA9E2</string>
+		</dict>
+		<key>14EF628D-0EA6-476B-94A5-54F9523C48F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>14EF628D-0EA6-476B-94A5-54F9523C48F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441248.41558897</real>
+			<key>timeStoppedRecording</key>
+			<real>658441248.42292202</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>14EF628D-0EA6-476B-94A5-54F9523C48F9</string>
+		</dict>
+		<key>15F7FE02-DB0B-480E-A729-1A585D1E8809</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>15F7FE02-DB0B-480E-A729-1A585D1E8809.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440554.16210103</real>
+			<key>timeStoppedRecording</key>
+			<real>658440554.17004299</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>15F7FE02-DB0B-480E-A729-1A585D1E8809</string>
+		</dict>
+		<key>18527CBA-9176-4CD0-9A47-2AB6093244A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>18527CBA-9176-4CD0-9A47-2AB6093244A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441492.42156196</real>
+			<key>timeStoppedRecording</key>
+			<real>658441492.42700195</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>18527CBA-9176-4CD0-9A47-2AB6093244A8</string>
+		</dict>
+		<key>19B251AD-2EE6-455E-B84B-6876AFC89092</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>19B251AD-2EE6-455E-B84B-6876AFC89092.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441550.48762703</real>
+			<key>timeStoppedRecording</key>
+			<real>658441550.49449801</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>19B251AD-2EE6-455E-B84B-6876AFC89092</string>
+		</dict>
+		<key>1BDB08C1-629C-4FA3-82FA-7D2AE6F2D301</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1BDB08C1-629C-4FA3-82FA-7D2AE6F2D301.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440163.19452298</real>
+			<key>timeStoppedRecording</key>
+			<real>658440163.20383704</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1BDB08C1-629C-4FA3-82FA-7D2AE6F2D301</string>
+		</dict>
+		<key>1D2FF54D-11FB-4BA9-8FEE-88A8E79C990F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1D2FF54D-11FB-4BA9-8FEE-88A8E79C990F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441235.39517605</real>
+			<key>timeStoppedRecording</key>
+			<real>658441235.40051401</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1D2FF54D-11FB-4BA9-8FEE-88A8E79C990F</string>
+		</dict>
+		<key>1E1A460A-6C72-4CF1-A3EA-29B28A5F3331</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1E1A460A-6C72-4CF1-A3EA-29B28A5F3331.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>658437661.61329997</real>
+			<key>timeStoppedRecording</key>
+			<real>658437661.64000106</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>1E1A460A-6C72-4CF1-A3EA-29B28A5F3331</string>
+		</dict>
+		<key>1E5B807B-0F46-4F0A-85DD-563FBE67ADF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1E5B807B-0F46-4F0A-85DD-563FBE67ADF5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440092.20113099</real>
+			<key>timeStoppedRecording</key>
+			<real>658440092.20979905</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1E5B807B-0F46-4F0A-85DD-563FBE67ADF5</string>
+		</dict>
+		<key>1ED53A18-CFFD-48BD-8B03-8E7EA0204763</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1ED53A18-CFFD-48BD-8B03-8E7EA0204763.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440415.06328297</real>
+			<key>timeStoppedRecording</key>
+			<real>658440415.07954204</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1ED53A18-CFFD-48BD-8B03-8E7EA0204763</string>
+		</dict>
+		<key>1F5EAC12-542D-4A14-9B71-3AD5F2A80870</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1F5EAC12-542D-4A14-9B71-3AD5F2A80870.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440101.40093195</real>
+			<key>timeStoppedRecording</key>
+			<real>658440101.40918303</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1F5EAC12-542D-4A14-9B71-3AD5F2A80870</string>
+		</dict>
+		<key>1FFE02C6-D57F-46E7-9316-56CD93EE4EB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>1FFE02C6-D57F-46E7-9316-56CD93EE4EB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439583.87279999</real>
+			<key>timeStoppedRecording</key>
+			<real>658439583.87800002</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>1FFE02C6-D57F-46E7-9316-56CD93EE4EB8</string>
+		</dict>
+		<key>21C3D37F-EC0F-4DF6-A9C2-CDC2A631FC0F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>21C3D37F-EC0F-4DF6-A9C2-CDC2A631FC0F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440905.73716295</real>
+			<key>timeStoppedRecording</key>
+			<real>658440905.75658095</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>21C3D37F-EC0F-4DF6-A9C2-CDC2A631FC0F</string>
+		</dict>
+		<key>24DE10E6-8521-42BD-9E12-E5182DFB3342</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>24DE10E6-8521-42BD-9E12-E5182DFB3342.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439841.34679699</real>
+			<key>timeStoppedRecording</key>
+			<real>658439841.363554</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>24DE10E6-8521-42BD-9E12-E5182DFB3342</string>
+		</dict>
+		<key>26126A54-34F6-4C20-B6DD-A955DEC35D21</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>26126A54-34F6-4C20-B6DD-A955DEC35D21.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441226.080984</real>
+			<key>timeStoppedRecording</key>
+			<real>658441226.10385799</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>26126A54-34F6-4C20-B6DD-A955DEC35D21</string>
+		</dict>
+		<key>272E1085-22F8-4139-B096-DADD511728CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>272E1085-22F8-4139-B096-DADD511728CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440932.75206399</real>
+			<key>timeStoppedRecording</key>
+			<real>658440932.75937903</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>272E1085-22F8-4139-B096-DADD511728CA</string>
+		</dict>
+		<key>29780AD7-5464-493F-964B-AA31432BB0A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>29780AD7-5464-493F-964B-AA31432BB0A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439744.21429503</real>
+			<key>timeStoppedRecording</key>
+			<real>658439744.22209501</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>29780AD7-5464-493F-964B-AA31432BB0A2</string>
+		</dict>
+		<key>29B8E120-2CFD-4955-AF1C-393CBA0B1C38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>29B8E120-2CFD-4955-AF1C-393CBA0B1C38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441602.12754905</real>
+			<key>timeStoppedRecording</key>
+			<real>658441602.13362396</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>29B8E120-2CFD-4955-AF1C-393CBA0B1C38</string>
+		</dict>
+		<key>2C7E309C-0F76-4A2E-BC39-376A8CEC7410</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2C7E309C-0F76-4A2E-BC39-376A8CEC7410.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441400.14334595</real>
+			<key>timeStoppedRecording</key>
+			<real>658441400.15140104</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2C7E309C-0F76-4A2E-BC39-376A8CEC7410</string>
+		</dict>
+		<key>2F38CBFC-3DAE-4C25-BC25-624C7314EBAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2F38CBFC-3DAE-4C25-BC25-624C7314EBAE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439603.68839204</real>
+			<key>timeStoppedRecording</key>
+			<real>658439603.69658399</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2F38CBFC-3DAE-4C25-BC25-624C7314EBAE</string>
+		</dict>
+		<key>2FC78AB6-0AA2-4D57-8D67-63A54C09308F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>2FC78AB6-0AA2-4D57-8D67-63A54C09308F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440117.04245901</real>
+			<key>timeStoppedRecording</key>
+			<real>658440117.049927</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>2FC78AB6-0AA2-4D57-8D67-63A54C09308F</string>
+		</dict>
+		<key>3084E0A3-13A4-4398-951F-B75C8D910A17</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3084E0A3-13A4-4398-951F-B75C8D910A17.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441802.52119505</real>
+			<key>timeStoppedRecording</key>
+			<real>658441802.540218</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3084E0A3-13A4-4398-951F-B75C8D910A17</string>
+		</dict>
+		<key>3093C608-DC2B-4CC1-88E3-6ABC43F4CEE9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3093C608-DC2B-4CC1-88E3-6ABC43F4CEE9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658442026.57280397</real>
+			<key>timeStoppedRecording</key>
+			<real>658442026.58863902</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3093C608-DC2B-4CC1-88E3-6ABC43F4CEE9</string>
+		</dict>
+		<key>31EE45F8-4865-42A3-9EC0-2634B8ECCBB8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>31EE45F8-4865-42A3-9EC0-2634B8ECCBB8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439459.38213301</real>
+			<key>timeStoppedRecording</key>
+			<real>658439459.39303803</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>31EE45F8-4865-42A3-9EC0-2634B8ECCBB8</string>
+		</dict>
+		<key>3359E628-B2A8-4E06-A9C9-5A8D7209383C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3359E628-B2A8-4E06-A9C9-5A8D7209383C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439590.95680201</real>
+			<key>timeStoppedRecording</key>
+			<real>658439590.96489704</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3359E628-B2A8-4E06-A9C9-5A8D7209383C</string>
+		</dict>
+		<key>341B34EC-F38A-4D71-8039-E131464CFD11</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>341B34EC-F38A-4D71-8039-E131464CFD11.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439828.81048203</real>
+			<key>timeStoppedRecording</key>
+			<real>658439828.81850004</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>341B34EC-F38A-4D71-8039-E131464CFD11</string>
+		</dict>
+		<key>34420ECE-C436-4872-B787-8512DF6C0D4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>34420ECE-C436-4872-B787-8512DF6C0D4B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439597.25537896</real>
+			<key>timeStoppedRecording</key>
+			<real>658439597.26349199</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>34420ECE-C436-4872-B787-8512DF6C0D4B</string>
+		</dict>
+		<key>34FE6CCF-20CD-4808-A98F-1564D93A6B4B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>34FE6CCF-20CD-4808-A98F-1564D93A6B4B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439473.60321295</real>
+			<key>timeStoppedRecording</key>
+			<real>658439473.61035502</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>34FE6CCF-20CD-4808-A98F-1564D93A6B4B</string>
+		</dict>
+		<key>36EA5D7D-E887-4388-9826-D1AFC702CDC9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>36EA5D7D-E887-4388-9826-D1AFC702CDC9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440988.66540205</real>
+			<key>timeStoppedRecording</key>
+			<real>658440988.69278204</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>36EA5D7D-E887-4388-9826-D1AFC702CDC9</string>
+		</dict>
+		<key>37617DDD-E9AC-4984-ADE5-F0EDFF9FE36A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>37617DDD-E9AC-4984-ADE5-F0EDFF9FE36A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440541.18739104</real>
+			<key>timeStoppedRecording</key>
+			<real>658440541.19465601</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>37617DDD-E9AC-4984-ADE5-F0EDFF9FE36A</string>
+		</dict>
+		<key>381C074B-46FE-49A2-9537-7827F3FEE1B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>381C074B-46FE-49A2-9537-7827F3FEE1B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441741.55325401</real>
+			<key>timeStoppedRecording</key>
+			<real>658441741.56122398</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>381C074B-46FE-49A2-9537-7827F3FEE1B3</string>
+		</dict>
+		<key>38CD00AC-A509-42B3-BCB4-F9CD40AAD128</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>38CD00AC-A509-42B3-BCB4-F9CD40AAD128.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439906.07722604</real>
+			<key>timeStoppedRecording</key>
+			<real>658439906.08257306</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>38CD00AC-A509-42B3-BCB4-F9CD40AAD128</string>
+		</dict>
+		<key>39020040-56AC-48BC-BDF5-4AA13985B20E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>39020040-56AC-48BC-BDF5-4AA13985B20E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440562.40840101</real>
+			<key>timeStoppedRecording</key>
+			<real>658440562.41600704</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>39020040-56AC-48BC-BDF5-4AA13985B20E</string>
+		</dict>
+		<key>3AC614D0-51C3-412B-A76B-628BC02040B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3AC614D0-51C3-412B-A76B-628BC02040B8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439674.08677804</real>
+			<key>timeStoppedRecording</key>
+			<real>658439674.09731603</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3AC614D0-51C3-412B-A76B-628BC02040B8</string>
+		</dict>
+		<key>3D292A22-FC03-4D1A-8B36-C37F0E90F17A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3D292A22-FC03-4D1A-8B36-C37F0E90F17A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440975.22916305</real>
+			<key>timeStoppedRecording</key>
+			<real>658440975.23689902</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3D292A22-FC03-4D1A-8B36-C37F0E90F17A</string>
+		</dict>
+		<key>3D659EF0-2FB5-45B4-9F7D-0539B0C85525</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3D659EF0-2FB5-45B4-9F7D-0539B0C85525.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>658439578.99038994</real>
+			<key>timeStoppedRecording</key>
+			<real>658439579.05603302</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>3D659EF0-2FB5-45B4-9F7D-0539B0C85525</string>
+		</dict>
+		<key>3DF6B1A8-08AC-4E4C-8866-EC40CEC9C5E3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3DF6B1A8-08AC-4E4C-8866-EC40CEC9C5E3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439703.050735</real>
+			<key>timeStoppedRecording</key>
+			<real>658439703.07677197</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3DF6B1A8-08AC-4E4C-8866-EC40CEC9C5E3</string>
+		</dict>
+		<key>3F9F2028-03D0-4567-A70F-69EE1B4EE537</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>3F9F2028-03D0-4567-A70F-69EE1B4EE537.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658442909.06412101</real>
+			<key>timeStoppedRecording</key>
+			<real>658442909.07500505</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>3F9F2028-03D0-4567-A70F-69EE1B4EE537</string>
+		</dict>
+		<key>4014EE44-410F-4031-8A3B-11B70F5AF96C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4014EE44-410F-4031-8A3B-11B70F5AF96C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439910.44955802</real>
+			<key>timeStoppedRecording</key>
+			<real>658439910.46513796</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4014EE44-410F-4031-8A3B-11B70F5AF96C</string>
+		</dict>
+		<key>408D3A58-C2E7-422A-9307-9033DD2356AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>408D3A58-C2E7-422A-9307-9033DD2356AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440524.64581704</real>
+			<key>timeStoppedRecording</key>
+			<real>658440524.65344298</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>408D3A58-C2E7-422A-9307-9033DD2356AC</string>
+		</dict>
+		<key>438E6C17-EC46-4780-B02F-1A63B8302A33</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>438E6C17-EC46-4780-B02F-1A63B8302A33.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440153.85638595</real>
+			<key>timeStoppedRecording</key>
+			<real>658440153.86426604</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>438E6C17-EC46-4780-B02F-1A63B8302A33</string>
+		</dict>
+		<key>4576B38C-FEEB-45FB-A962-F84EB1666B99</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4576B38C-FEEB-45FB-A962-F84EB1666B99.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439878.33784497</real>
+			<key>timeStoppedRecording</key>
+			<real>658439878.34491003</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4576B38C-FEEB-45FB-A962-F84EB1666B99</string>
+		</dict>
+		<key>457DA082-895D-4A08-8411-C7ACB30C3EF7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>457DA082-895D-4A08-8411-C7ACB30C3EF7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441405.60166895</real>
+			<key>timeStoppedRecording</key>
+			<real>658441405.60949099</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>457DA082-895D-4A08-8411-C7ACB30C3EF7</string>
+		</dict>
+		<key>4642861F-857B-4318-A359-81944308FC34</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4642861F-857B-4318-A359-81944308FC34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441452.46082699</real>
+			<key>timeStoppedRecording</key>
+			<real>658441452.47735405</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4642861F-857B-4318-A359-81944308FC34</string>
+		</dict>
+		<key>46B4B635-7BB9-4251-B1A9-97DD9B5D9358</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>46B4B635-7BB9-4251-B1A9-97DD9B5D9358.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440108.15968502</real>
+			<key>timeStoppedRecording</key>
+			<real>658440108.167184</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>46B4B635-7BB9-4251-B1A9-97DD9B5D9358</string>
+		</dict>
+		<key>47EEE9D2-23E4-4C14-A2DC-086956BC5DAD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>47EEE9D2-23E4-4C14-A2DC-086956BC5DAD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441340.149225</real>
+			<key>timeStoppedRecording</key>
+			<real>658441340.15563202</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>47EEE9D2-23E4-4C14-A2DC-086956BC5DAD</string>
+		</dict>
+		<key>49329F44-2C04-4D5F-BED4-F19798E9955A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>49329F44-2C04-4D5F-BED4-F19798E9955A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439697.20526695</real>
+			<key>timeStoppedRecording</key>
+			<real>658439697.23029697</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>49329F44-2C04-4D5F-BED4-F19798E9955A</string>
+		</dict>
+		<key>4B4E52C2-ED14-4B59-9C91-7E2DCB606F6F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4B4E52C2-ED14-4B59-9C91-7E2DCB606F6F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441430.624753</real>
+			<key>timeStoppedRecording</key>
+			<real>658441430.63033903</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4B4E52C2-ED14-4B59-9C91-7E2DCB606F6F</string>
+		</dict>
+		<key>4BF50619-15A4-40A3-BC1D-CA0E779E16AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4BF50619-15A4-40A3-BC1D-CA0E779E16AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439789.70494294</real>
+			<key>timeStoppedRecording</key>
+			<real>658439789.71244204</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4BF50619-15A4-40A3-BC1D-CA0E779E16AC</string>
+		</dict>
+		<key>4C47089C-19A1-4476-9621-FEF5F475C71B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4C47089C-19A1-4476-9621-FEF5F475C71B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439503.66722703</real>
+			<key>timeStoppedRecording</key>
+			<real>658439503.67376804</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4C47089C-19A1-4476-9621-FEF5F475C71B</string>
+		</dict>
+		<key>4CBF8CD9-F026-4318-89AC-7C9C5C036823</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4CBF8CD9-F026-4318-89AC-7C9C5C036823.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441303.73319602</real>
+			<key>timeStoppedRecording</key>
+			<real>658441303.74019396</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4CBF8CD9-F026-4318-89AC-7C9C5C036823</string>
+		</dict>
+		<key>4D5D8EDD-93FE-4652-8614-26509F9FBF80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4D5D8EDD-93FE-4652-8614-26509F9FBF80.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439617.37843394</real>
+			<key>timeStoppedRecording</key>
+			<real>658439617.385746</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4D5D8EDD-93FE-4652-8614-26509F9FBF80</string>
+		</dict>
+		<key>4E7766EB-42FB-45DE-AF40-95ECF02B5324</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4E7766EB-42FB-45DE-AF40-95ECF02B5324.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441191.40256405</real>
+			<key>timeStoppedRecording</key>
+			<real>658441191.41235101</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4E7766EB-42FB-45DE-AF40-95ECF02B5324</string>
+		</dict>
+		<key>4EFAAC56-DD26-4C39-9E9C-25B3588BED11</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>4EFAAC56-DD26-4C39-9E9C-25B3588BED11.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440548.64108706</real>
+			<key>timeStoppedRecording</key>
+			<real>658440548.65019095</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>4EFAAC56-DD26-4C39-9E9C-25B3588BED11</string>
+		</dict>
+		<key>53723F09-91B9-4C8B-9E95-74631582CD63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>53723F09-91B9-4C8B-9E95-74631582CD63.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440559.84812796</real>
+			<key>timeStoppedRecording</key>
+			<real>658440559.85711205</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>53723F09-91B9-4C8B-9E95-74631582CD63</string>
+		</dict>
+		<key>54B0D167-F2AC-449C-BCD0-919B0DA52DB6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>54B0D167-F2AC-449C-BCD0-919B0DA52DB6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439650.09584999</real>
+			<key>timeStoppedRecording</key>
+			<real>658439650.10307395</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>54B0D167-F2AC-449C-BCD0-919B0DA52DB6</string>
+		</dict>
+		<key>58D4ED0B-41F1-4F1F-B850-65E7BC6F59DD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>58D4ED0B-41F1-4F1F-B850-65E7BC6F59DD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>658439459.29384899</real>
+			<key>timeStoppedRecording</key>
+			<real>658439459.37689197</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>58D4ED0B-41F1-4F1F-B850-65E7BC6F59DD</string>
+		</dict>
+		<key>5A25A296-5464-4F5C-93D8-CBB18B6D2D32</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5A25A296-5464-4F5C-93D8-CBB18B6D2D32.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439713.70098102</real>
+			<key>timeStoppedRecording</key>
+			<real>658439713.72147906</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5A25A296-5464-4F5C-93D8-CBB18B6D2D32</string>
+		</dict>
+		<key>5BA36DCE-1E36-4657-AEA9-95299B3B165B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5BA36DCE-1E36-4657-AEA9-95299B3B165B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658443018.25464797</real>
+			<key>timeStoppedRecording</key>
+			<real>658443018.26455498</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5BA36DCE-1E36-4657-AEA9-95299B3B165B</string>
+		</dict>
+		<key>5FA24921-7B6D-4AAB-9CF3-371A7267B2F8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5FA24921-7B6D-4AAB-9CF3-371A7267B2F8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440138.83135295</real>
+			<key>timeStoppedRecording</key>
+			<real>658440138.83940101</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5FA24921-7B6D-4AAB-9CF3-371A7267B2F8</string>
+		</dict>
+		<key>5FD420F6-3F35-415C-87F4-53F706EDA672</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>5FD420F6-3F35-415C-87F4-53F706EDA672.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440961.53409505</real>
+			<key>timeStoppedRecording</key>
+			<real>658440961.54204094</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>5FD420F6-3F35-415C-87F4-53F706EDA672</string>
+		</dict>
+		<key>611A1FEA-32B0-4CA3-A5F4-6D938AA960A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>611A1FEA-32B0-4CA3-A5F4-6D938AA960A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658443338.95394897</real>
+			<key>timeStoppedRecording</key>
+			<real>658443338.96398306</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>611A1FEA-32B0-4CA3-A5F4-6D938AA960A9</string>
+		</dict>
+		<key>6224BBED-CDAE-4AFC-899B-FEB148B8AA1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6224BBED-CDAE-4AFC-899B-FEB148B8AA1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440533.51984501</real>
+			<key>timeStoppedRecording</key>
+			<real>658440533.52953005</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6224BBED-CDAE-4AFC-899B-FEB148B8AA1B</string>
+		</dict>
+		<key>6905773C-BE6E-4473-B3F4-B58583295723</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6905773C-BE6E-4473-B3F4-B58583295723.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441317.09772801</real>
+			<key>timeStoppedRecording</key>
+			<real>658441317.10471702</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6905773C-BE6E-4473-B3F4-B58583295723</string>
+		</dict>
+		<key>6DA3E666-2396-4DF4-8EF8-DB8DC8A2585F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6DA3E666-2396-4DF4-8EF8-DB8DC8A2585F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440945.75571406</real>
+			<key>timeStoppedRecording</key>
+			<real>658440945.76208305</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6DA3E666-2396-4DF4-8EF8-DB8DC8A2585F</string>
+		</dict>
+		<key>6E3AE21C-7A6F-4478-8F00-38C56B6CE653</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6E3AE21C-7A6F-4478-8F00-38C56B6CE653.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>658439583.83977103</real>
+			<key>timeStoppedRecording</key>
+			<real>658439583.87134898</real>
+			<key>title</key>
+			<string>GameEngine Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>6E3AE21C-7A6F-4478-8F00-38C56B6CE653</string>
+		</dict>
+		<key>70AB4294-8C48-4AA2-A76A-C7F62410AFCB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>70AB4294-8C48-4AA2-A76A-C7F62410AFCB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440226.889449</real>
+			<key>timeStoppedRecording</key>
+			<real>658440226.89725494</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>70AB4294-8C48-4AA2-A76A-C7F62410AFCB</string>
+		</dict>
+		<key>71734DD2-14B8-4756-A4A1-2DCB8E2FDCE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>71734DD2-14B8-4756-A4A1-2DCB8E2FDCE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439564.84115505</real>
+			<key>timeStoppedRecording</key>
+			<real>658439564.847242</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>71734DD2-14B8-4756-A4A1-2DCB8E2FDCE1</string>
+		</dict>
+		<key>76180F19-DD5A-4357-9CBD-4E644BC1A765</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>76180F19-DD5A-4357-9CBD-4E644BC1A765.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441417.67848897</real>
+			<key>timeStoppedRecording</key>
+			<real>658441417.68639898</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>76180F19-DD5A-4357-9CBD-4E644BC1A765</string>
+		</dict>
+		<key>7712EAA6-2F64-4E54-8E8C-CB42C6D02751</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7712EAA6-2F64-4E54-8E8C-CB42C6D02751.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439612.49117005</real>
+			<key>timeStoppedRecording</key>
+			<real>658439612.49860299</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7712EAA6-2F64-4E54-8E8C-CB42C6D02751</string>
+		</dict>
+		<key>77480854-D758-49E2-87FC-1F2F7A1066C4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>77480854-D758-49E2-87FC-1F2F7A1066C4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440192.07888806</real>
+			<key>timeStoppedRecording</key>
+			<real>658440192.093557</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>77480854-D758-49E2-87FC-1F2F7A1066C4</string>
+		</dict>
+		<key>7974E2E5-8FF4-4FED-B2B4-BFFA1CC3E49B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7974E2E5-8FF4-4FED-B2B4-BFFA1CC3E49B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440051.80229998</real>
+			<key>timeStoppedRecording</key>
+			<real>658440051.80905902</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7974E2E5-8FF4-4FED-B2B4-BFFA1CC3E49B</string>
+		</dict>
+		<key>7EC04053-E2AA-4732-BDDD-CDC3A081679A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>7EC04053-E2AA-4732-BDDD-CDC3A081679A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439806.76899695</real>
+			<key>timeStoppedRecording</key>
+			<real>658439806.776824</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>7EC04053-E2AA-4732-BDDD-CDC3A081679A</string>
+		</dict>
+		<key>83E30C73-E234-44C9-860B-04618FBBED3A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>83E30C73-E234-44C9-860B-04618FBBED3A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440593.00787103</real>
+			<key>timeStoppedRecording</key>
+			<real>658440593.01489699</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>83E30C73-E234-44C9-860B-04618FBBED3A</string>
+		</dict>
+		<key>855D69FC-FFE9-48AA-9EE7-36EDF14503A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>855D69FC-FFE9-48AA-9EE7-36EDF14503A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441582.91019297</real>
+			<key>timeStoppedRecording</key>
+			<real>658441582.91554403</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>855D69FC-FFE9-48AA-9EE7-36EDF14503A2</string>
+		</dict>
+		<key>88C53259-1E5B-4D97-80F7-C96081EB21A4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>88C53259-1E5B-4D97-80F7-C96081EB21A4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439821.68589795</real>
+			<key>timeStoppedRecording</key>
+			<real>658439821.69361103</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>88C53259-1E5B-4D97-80F7-C96081EB21A4</string>
+		</dict>
+		<key>8A7144A0-F433-4512-98AA-DF1EAC24E393</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8A7144A0-F433-4512-98AA-DF1EAC24E393.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>658437661.57487202</real>
+			<key>timeStoppedRecording</key>
+			<real>658437661.60976899</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>8A7144A0-F433-4512-98AA-DF1EAC24E393</string>
+		</dict>
+		<key>8AD6AFDA-150A-4402-8F2E-42E97D2C4309</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8AD6AFDA-150A-4402-8F2E-42E97D2C4309.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441664.27230203</real>
+			<key>timeStoppedRecording</key>
+			<real>658441664.28712904</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8AD6AFDA-150A-4402-8F2E-42E97D2C4309</string>
+		</dict>
+		<key>8F342A52-39C5-42F6-9382-95E643BB6951</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8F342A52-39C5-42F6-9382-95E643BB6951.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441149.098791</real>
+			<key>timeStoppedRecording</key>
+			<real>658441149.10616505</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8F342A52-39C5-42F6-9382-95E643BB6951</string>
+		</dict>
+		<key>8F8BF8FB-3CB7-4BDD-8631-04A505993F06</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8F8BF8FB-3CB7-4BDD-8631-04A505993F06.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441112.46771395</real>
+			<key>timeStoppedRecording</key>
+			<real>658441112.475034</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8F8BF8FB-3CB7-4BDD-8631-04A505993F06</string>
+		</dict>
+		<key>9016904D-04AF-46A4-ADCD-154CFE6B9617</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9016904D-04AF-46A4-ADCD-154CFE6B9617.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439544.96131003</real>
+			<key>timeStoppedRecording</key>
+			<real>658439544.97065699</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9016904D-04AF-46A4-ADCD-154CFE6B9617</string>
+		</dict>
+		<key>90554CF3-0D3A-4394-92B4-0FCB44765F44</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>90554CF3-0D3A-4394-92B4-0FCB44765F44.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439863.488675</real>
+			<key>timeStoppedRecording</key>
+			<real>658439863.49544895</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>90554CF3-0D3A-4394-92B4-0FCB44765F44</string>
+		</dict>
+		<key>90C20B00-E4CF-4343-B40C-E9028A4B1F1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>90C20B00-E4CF-4343-B40C-E9028A4B1F1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439624.66747904</real>
+			<key>timeStoppedRecording</key>
+			<real>658439624.67674994</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>90C20B00-E4CF-4343-B40C-E9028A4B1F1B</string>
+		</dict>
+		<key>919D6AC4-E0D3-4090-BB18-F47E6A2F85B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>919D6AC4-E0D3-4090-BB18-F47E6A2F85B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441565.79461706</real>
+			<key>timeStoppedRecording</key>
+			<real>658441565.80554998</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>919D6AC4-E0D3-4090-BB18-F47E6A2F85B4</string>
+		</dict>
+		<key>92109639-7E51-4716-B2BF-3D66C4D51DCA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>92109639-7E51-4716-B2BF-3D66C4D51DCA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658442626.52967203</real>
+			<key>timeStoppedRecording</key>
+			<real>658442626.54158497</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>92109639-7E51-4716-B2BF-3D66C4D51DCA</string>
+		</dict>
+		<key>92FFCBAF-3713-4D28-856C-9A72BE8D421D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>92FFCBAF-3713-4D28-856C-9A72BE8D421D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658426777.18874395</real>
+			<key>timeStoppedRecording</key>
+			<real>658426777.20726204</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>92FFCBAF-3713-4D28-856C-9A72BE8D421D</string>
+		</dict>
+		<key>96BC43B6-3955-47A5-A420-6F8B0C3966BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>96BC43B6-3955-47A5-A420-6F8B0C3966BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439799.76060605</real>
+			<key>timeStoppedRecording</key>
+			<real>658439799.768736</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>96BC43B6-3955-47A5-A420-6F8B0C3966BE</string>
+		</dict>
+		<key>970E9F46-D4D9-4091-94D2-94744AF223C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>970E9F46-D4D9-4091-94D2-94744AF223C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440609.716681</real>
+			<key>timeStoppedRecording</key>
+			<real>658440609.72607899</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>970E9F46-D4D9-4091-94D2-94744AF223C0</string>
+		</dict>
+		<key>98793443-A2BC-4612-8E6F-DEC5767F0F4D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>98793443-A2BC-4612-8E6F-DEC5767F0F4D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439867.70052195</real>
+			<key>timeStoppedRecording</key>
+			<real>658439867.70887101</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>98793443-A2BC-4612-8E6F-DEC5767F0F4D</string>
+		</dict>
+		<key>9AC6BF08-144D-4487-BF64-B01603D550CE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9AC6BF08-144D-4487-BF64-B01603D550CE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439511.95139396</real>
+			<key>timeStoppedRecording</key>
+			<real>658439511.95732296</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9AC6BF08-144D-4487-BF64-B01603D550CE</string>
+		</dict>
+		<key>9B7C6D09-136B-49B8-9FFA-149915534A8B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9B7C6D09-136B-49B8-9FFA-149915534A8B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441119.51769197</real>
+			<key>timeStoppedRecording</key>
+			<real>658441119.52445805</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9B7C6D09-136B-49B8-9FFA-149915534A8B</string>
+		</dict>
+		<key>9D3D473F-0B8E-4F89-94A3-52836B0BCB05</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9D3D473F-0B8E-4F89-94A3-52836B0BCB05.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440466.78935695</real>
+			<key>timeStoppedRecording</key>
+			<real>658440466.81569195</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9D3D473F-0B8E-4F89-94A3-52836B0BCB05</string>
+		</dict>
+		<key>9DC14032-D2C8-469D-972C-1A960F9B4069</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9DC14032-D2C8-469D-972C-1A960F9B4069.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440570.63612902</real>
+			<key>timeStoppedRecording</key>
+			<real>658440570.64475298</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9DC14032-D2C8-469D-972C-1A960F9B4069</string>
+		</dict>
+		<key>9E029DE0-EE07-46BE-BE5C-A574C9F7B440</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9E029DE0-EE07-46BE-BE5C-A574C9F7B440.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440006.80686903</real>
+			<key>timeStoppedRecording</key>
+			<real>658440006.81724095</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9E029DE0-EE07-46BE-BE5C-A574C9F7B440</string>
+		</dict>
+		<key>9E430D80-843B-4CC2-990E-4685E5DC2B3F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>9E430D80-843B-4CC2-990E-4685E5DC2B3F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441835.53788996</real>
+			<key>timeStoppedRecording</key>
+			<real>658441835.553231</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>9E430D80-843B-4CC2-990E-4685E5DC2B3F</string>
+		</dict>
+		<key>A000518E-22AA-48D3-96A1-145D61F30257</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A000518E-22AA-48D3-96A1-145D61F30257.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441942.01323402</real>
+			<key>timeStoppedRecording</key>
+			<real>658441942.01868498</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A000518E-22AA-48D3-96A1-145D61F30257</string>
+		</dict>
+		<key>A020861B-4B83-4BBD-A151-68129A724DC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A020861B-4B83-4BBD-A151-68129A724DC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440951.71532297</real>
+			<key>timeStoppedRecording</key>
+			<real>658440951.721609</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A020861B-4B83-4BBD-A151-68129A724DC0</string>
+		</dict>
+		<key>A2E83202-8D17-44CD-9E17-DCF4979BEE82</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A2E83202-8D17-44CD-9E17-DCF4979BEE82.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440425.52367997</real>
+			<key>timeStoppedRecording</key>
+			<real>658440425.54712605</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A2E83202-8D17-44CD-9E17-DCF4979BEE82</string>
+		</dict>
+		<key>A34D853A-5107-42BE-8B98-1EAB821A2B0B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A34D853A-5107-42BE-8B98-1EAB821A2B0B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441384.153332</real>
+			<key>timeStoppedRecording</key>
+			<real>658441384.16254902</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A34D853A-5107-42BE-8B98-1EAB821A2B0B</string>
+		</dict>
+		<key>A9974A0F-E04E-4469-8734-83DB810F61D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>A9974A0F-E04E-4469-8734-83DB810F61D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439633.55689597</real>
+			<key>timeStoppedRecording</key>
+			<real>658439633.56422603</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>A9974A0F-E04E-4469-8734-83DB810F61D7</string>
+		</dict>
+		<key>AFA07670-CA48-466A-BA9A-7D81336DE486</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>AFA07670-CA48-466A-BA9A-7D81336DE486.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441240.66156995</real>
+			<key>timeStoppedRecording</key>
+			<real>658441240.66928303</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>AFA07670-CA48-466A-BA9A-7D81336DE486</string>
+		</dict>
+		<key>B1E33979-29AC-4272-A268-BD8E1157EFB5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B1E33979-29AC-4272-A268-BD8E1157EFB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440940.13271201</real>
+			<key>timeStoppedRecording</key>
+			<real>658440940.13975</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B1E33979-29AC-4272-A268-BD8E1157EFB5</string>
+		</dict>
+		<key>B3000654-4558-44FD-A848-26655DE0511A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B3000654-4558-44FD-A848-26655DE0511A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441900.194767</real>
+			<key>timeStoppedRecording</key>
+			<real>658441900.20597601</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B3000654-4558-44FD-A848-26655DE0511A</string>
+		</dict>
+		<key>B3A286A7-68D3-4BA0-9FD5-B833BD94ACA3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B3A286A7-68D3-4BA0-9FD5-B833BD94ACA3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440435.61740506</real>
+			<key>timeStoppedRecording</key>
+			<real>658440435.63804603</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B3A286A7-68D3-4BA0-9FD5-B833BD94ACA3</string>
+		</dict>
+		<key>B65C8292-D482-41E1-91E1-CC05ED0F36BC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B65C8292-D482-41E1-91E1-CC05ED0F36BC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440567.62635005</real>
+			<key>timeStoppedRecording</key>
+			<real>658440567.63267899</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B65C8292-D482-41E1-91E1-CC05ED0F36BC</string>
+		</dict>
+		<key>B6E1080B-69A5-4AF3-952D-6E769F7886EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B6E1080B-69A5-4AF3-952D-6E769F7886EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441183.35239601</real>
+			<key>timeStoppedRecording</key>
+			<real>658441183.35981202</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B6E1080B-69A5-4AF3-952D-6E769F7886EB</string>
+		</dict>
+		<key>B793D04D-EF9B-4D59-A452-6217B5725E71</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B793D04D-EF9B-4D59-A452-6217B5725E71.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>658439459.29400599</real>
+			<key>timeStoppedRecording</key>
+			<real>658439459.37805903</real>
+			<key>title</key>
+			<string>GameEngine Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>B793D04D-EF9B-4D59-A452-6217B5725E71</string>
+		</dict>
+		<key>B8AF7A37-3108-4B25-B9B3-26D1861930BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B8AF7A37-3108-4B25-B9B3-26D1861930BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440577.21056497</real>
+			<key>timeStoppedRecording</key>
+			<real>658440577.21776605</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B8AF7A37-3108-4B25-B9B3-26D1861930BE</string>
+		</dict>
+		<key>B8C679C7-2FE1-4E03-AF07-23515EE4086F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>B8C679C7-2FE1-4E03-AF07-23515EE4086F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439579.05965304</real>
+			<key>timeStoppedRecording</key>
+			<real>658439579.06622398</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>B8C679C7-2FE1-4E03-AF07-23515EE4086F</string>
+		</dict>
+		<key>BBBB9310-83ED-45C4-B905-0873565DB4F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BBBB9310-83ED-45C4-B905-0873565DB4F2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658442688.73553002</real>
+			<key>timeStoppedRecording</key>
+			<real>658442688.753286</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BBBB9310-83ED-45C4-B905-0873565DB4F2</string>
+		</dict>
+		<key>BCB4546A-733B-4EED-BE47-BDFA0BAA005D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BCB4546A-733B-4EED-BE47-BDFA0BAA005D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440956.93067801</real>
+			<key>timeStoppedRecording</key>
+			<real>658440956.93829501</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BCB4546A-733B-4EED-BE47-BDFA0BAA005D</string>
+		</dict>
+		<key>BD24074B-2577-49A4-BBC0-D1C3E2413BAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BD24074B-2577-49A4-BBC0-D1C3E2413BAE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440078.63527596</real>
+			<key>timeStoppedRecording</key>
+			<real>658440078.64336205</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BD24074B-2577-49A4-BBC0-D1C3E2413BAE</string>
+		</dict>
+		<key>BFCDA67A-BAC5-49D4-AA69-1245E88A5ADF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BFCDA67A-BAC5-49D4-AA69-1245E88A5ADF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441963.67251396</real>
+			<key>timeStoppedRecording</key>
+			<real>658441963.68466902</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>BFCDA67A-BAC5-49D4-AA69-1245E88A5ADF</string>
+		</dict>
+		<key>C64D8C59-97F7-4BC2-895B-66A547B79F82</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C64D8C59-97F7-4BC2-895B-66A547B79F82.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440277.86542702</real>
+			<key>timeStoppedRecording</key>
+			<real>658440277.87335098</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C64D8C59-97F7-4BC2-895B-66A547B79F82</string>
+		</dict>
+		<key>C65E5FCB-DBDA-434F-A9D2-A6DFF766D343</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C65E5FCB-DBDA-434F-A9D2-A6DFF766D343.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441301.46246696</real>
+			<key>timeStoppedRecording</key>
+			<real>658441301.48525298</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C65E5FCB-DBDA-434F-A9D2-A6DFF766D343</string>
+		</dict>
+		<key>C6FF5F96-806B-4CC9-9D82-DD0C2608E25B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C6FF5F96-806B-4CC9-9D82-DD0C2608E25B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441169.74877</real>
+			<key>timeStoppedRecording</key>
+			<real>658441169.75561905</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C6FF5F96-806B-4CC9-9D82-DD0C2608E25B</string>
+		</dict>
+		<key>C7CE01FE-C0A2-47E6-BDB8-6AF96DA5B16C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C7CE01FE-C0A2-47E6-BDB8-6AF96DA5B16C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440182.28127301</real>
+			<key>timeStoppedRecording</key>
+			<real>658440182.29059505</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C7CE01FE-C0A2-47E6-BDB8-6AF96DA5B16C</string>
+		</dict>
+		<key>C8201477-25B3-4486-8903-4B6E0BB50B45</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C8201477-25B3-4486-8903-4B6E0BB50B45.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>658439583.83959198</real>
+			<key>timeStoppedRecording</key>
+			<real>658439583.87097597</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>C8201477-25B3-4486-8903-4B6E0BB50B45</string>
+		</dict>
+		<key>C864FB77-A870-4528-BC70-94AABB06301D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>C864FB77-A870-4528-BC70-94AABB06301D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439853.53655803</real>
+			<key>timeStoppedRecording</key>
+			<real>658439853.54389203</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>C864FB77-A870-4528-BC70-94AABB06301D</string>
+		</dict>
+		<key>CADD09A1-1AD4-4D2F-A262-848CCCD20BE4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CADD09A1-1AD4-4D2F-A262-848CCCD20BE4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440017.74563706</real>
+			<key>timeStoppedRecording</key>
+			<real>658440017.75436103</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>CADD09A1-1AD4-4D2F-A262-848CCCD20BE4</string>
+		</dict>
+		<key>CD7FDE68-ABBB-4F19-9E08-E242CC1B4DAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>CD7FDE68-ABBB-4F19-9E08-E242CC1B4DAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441173.23831296</real>
+			<key>timeStoppedRecording</key>
+			<real>658441173.24710202</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>CD7FDE68-ABBB-4F19-9E08-E242CC1B4DAC</string>
+		</dict>
+		<key>D156799D-70A2-4BE1-BB4E-0A0D45A62A69</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D156799D-70A2-4BE1-BB4E-0A0D45A62A69.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439814.32551801</real>
+			<key>timeStoppedRecording</key>
+			<real>658439814.33232105</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D156799D-70A2-4BE1-BB4E-0A0D45A62A69</string>
+		</dict>
+		<key>D1876DB9-5E50-4D25-B2B4-B0B3D23AC6D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D1876DB9-5E50-4D25-B2B4-B0B3D23AC6D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658442993.56361997</real>
+			<key>timeStoppedRecording</key>
+			<real>658442993.57267499</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D1876DB9-5E50-4D25-B2B4-B0B3D23AC6D2</string>
+		</dict>
+		<key>D398B481-59DE-4E1C-A2E0-BFF6D977B953</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D398B481-59DE-4E1C-A2E0-BFF6D977B953.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441594.20826995</real>
+			<key>timeStoppedRecording</key>
+			<real>658441594.22346103</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D398B481-59DE-4E1C-A2E0-BFF6D977B953</string>
+		</dict>
+		<key>D51B6343-027B-488E-8011-E89C6986D11F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D51B6343-027B-488E-8011-E89C6986D11F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441102.83053505</real>
+			<key>timeStoppedRecording</key>
+			<real>658441102.83776796</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D51B6343-027B-488E-8011-E89C6986D11F</string>
+		</dict>
+		<key>D6239320-DF9C-4209-BF27-5A8A2FCAA0D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>D6239320-DF9C-4209-BF27-5A8A2FCAA0D6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441037.38193703</real>
+			<key>timeStoppedRecording</key>
+			<real>658441037.39074099</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>D6239320-DF9C-4209-BF27-5A8A2FCAA0D6</string>
+		</dict>
+		<key>DA4FCED6-D672-4941-B748-53B9F3BB0218</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DA4FCED6-D672-4941-B748-53B9F3BB0218.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440506.53796101</real>
+			<key>timeStoppedRecording</key>
+			<real>658440506.54605198</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DA4FCED6-D672-4941-B748-53B9F3BB0218</string>
+		</dict>
+		<key>DEC6B2EA-E995-4D31-9913-1B12A1FDEBD6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DEC6B2EA-E995-4D31-9913-1B12A1FDEBD6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439491.42658997</real>
+			<key>timeStoppedRecording</key>
+			<real>658439491.43437195</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DEC6B2EA-E995-4D31-9913-1B12A1FDEBD6</string>
+		</dict>
+		<key>DF78CD30-28DC-4F8A-B583-F70E021FB890</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>DF78CD30-28DC-4F8A-B583-F70E021FB890.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439768.03816903</real>
+			<key>timeStoppedRecording</key>
+			<real>658439768.04593801</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>DF78CD30-28DC-4F8A-B583-F70E021FB890</string>
+		</dict>
+		<key>E06962FC-B6C1-45EE-8366-7323B9167150</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E06962FC-B6C1-45EE-8366-7323B9167150.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440489.14008105</real>
+			<key>timeStoppedRecording</key>
+			<real>658440489.14708996</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E06962FC-B6C1-45EE-8366-7323B9167150</string>
+		</dict>
+		<key>E1228F09-67C5-45FF-BAD5-F5E51D09CC74</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E1228F09-67C5-45FF-BAD5-F5E51D09CC74.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658437661.64486301</real>
+			<key>timeStoppedRecording</key>
+			<real>658437661.65289497</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E1228F09-67C5-45FF-BAD5-F5E51D09CC74</string>
+		</dict>
+		<key>E1D01EE1-C691-4437-87AE-6F7A90438E00</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E1D01EE1-C691-4437-87AE-6F7A90438E00.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439525.80909503</real>
+			<key>timeStoppedRecording</key>
+			<real>658439525.81646001</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E1D01EE1-C691-4437-87AE-6F7A90438E00</string>
+		</dict>
+		<key>E219D9AE-B123-4974-BA51-BCE4B9E91CB7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E219D9AE-B123-4974-BA51-BCE4B9E91CB7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441125.07708704</real>
+			<key>timeStoppedRecording</key>
+			<real>658441125.08523202</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E219D9AE-B123-4974-BA51-BCE4B9E91CB7</string>
+		</dict>
+		<key>E2DDC928-12B1-4D0C-8C5A-7948F45BD75E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E2DDC928-12B1-4D0C-8C5A-7948F45BD75E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439924.73613298</real>
+			<key>timeStoppedRecording</key>
+			<real>658439924.74426103</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E2DDC928-12B1-4D0C-8C5A-7948F45BD75E</string>
+		</dict>
+		<key>E44E2F96-C62A-4008-89B3-93803906F14B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E44E2F96-C62A-4008-89B3-93803906F14B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440968.60865903</real>
+			<key>timeStoppedRecording</key>
+			<real>658440968.61706603</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E44E2F96-C62A-4008-89B3-93803906F14B</string>
+		</dict>
+		<key>E560BF8D-75D7-49E5-963B-EA8429BFD35B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E560BF8D-75D7-49E5-963B-EA8429BFD35B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439909.24959695</real>
+			<key>timeStoppedRecording</key>
+			<real>658439909.26257205</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E560BF8D-75D7-49E5-963B-EA8429BFD35B</string>
+		</dict>
+		<key>E82B0A99-07E8-40AE-90C3-816261F7C4AC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E82B0A99-07E8-40AE-90C3-816261F7C4AC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441357.86325395</real>
+			<key>timeStoppedRecording</key>
+			<real>658441357.87101901</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E82B0A99-07E8-40AE-90C3-816261F7C4AC</string>
+		</dict>
+		<key>E8B3EC53-0DE1-4F2C-955E-E63A86DE6B66</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E8B3EC53-0DE1-4F2C-955E-E63A86DE6B66.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441065.08738601</real>
+			<key>timeStoppedRecording</key>
+			<real>658441065.09642696</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E8B3EC53-0DE1-4F2C-955E-E63A86DE6B66</string>
+		</dict>
+		<key>ECB64BB5-FD73-4E16-BE6E-83D8866BC74B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>ECB64BB5-FD73-4E16-BE6E-83D8866BC74B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439859.46996105</real>
+			<key>timeStoppedRecording</key>
+			<real>658439859.47750401</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>ECB64BB5-FD73-4E16-BE6E-83D8866BC74B</string>
+		</dict>
+		<key>ECC97558-6CB0-4498-8B3C-A78BD8D4C92E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>ECC97558-6CB0-4498-8B3C-A78BD8D4C92E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441131.90600502</real>
+			<key>timeStoppedRecording</key>
+			<real>658441131.91134298</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>ECC97558-6CB0-4498-8B3C-A78BD8D4C92E</string>
+		</dict>
+		<key>ECEE4CD9-E471-4B62-ABBC-E42DFCECD56C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>ECEE4CD9-E471-4B62-ABBC-E42DFCECD56C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441426.40654802</real>
+			<key>timeStoppedRecording</key>
+			<real>658441426.41362</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>ECEE4CD9-E471-4B62-ABBC-E42DFCECD56C</string>
+		</dict>
+		<key>EDAAE2EE-604D-4F42-824C-A7E68EDCFE19</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>EDAAE2EE-604D-4F42-824C-A7E68EDCFE19.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658442045.29799104</real>
+			<key>timeStoppedRecording</key>
+			<real>658442045.30280399</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>EDAAE2EE-604D-4F42-824C-A7E68EDCFE19</string>
+		</dict>
+		<key>F11A8E45-B782-4266-BA6B-177DB4ADC29D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F11A8E45-B782-4266-BA6B-177DB4ADC29D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658442072.05316699</real>
+			<key>timeStoppedRecording</key>
+			<real>658442072.06683505</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F11A8E45-B782-4266-BA6B-177DB4ADC29D</string>
+		</dict>
+		<key>F70A07D3-FA04-43F3-8CEB-BF6CB36B2FDD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F70A07D3-FA04-43F3-8CEB-BF6CB36B2FDD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440928.29284</real>
+			<key>timeStoppedRecording</key>
+			<real>658440928.30317402</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F70A07D3-FA04-43F3-8CEB-BF6CB36B2FDD</string>
+		</dict>
+		<key>F8030507-67A3-4A44-B159-6BFA1152D836</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F8030507-67A3-4A44-B159-6BFA1152D836.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441282.10594702</real>
+			<key>timeStoppedRecording</key>
+			<real>658441282.11508298</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F8030507-67A3-4A44-B159-6BFA1152D836</string>
+		</dict>
+		<key>F80763E9-6AD9-485D-8554-5A07BB509D42</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F80763E9-6AD9-485D-8554-5A07BB509D42.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441507.70873296</real>
+			<key>timeStoppedRecording</key>
+			<real>658441507.71854806</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F80763E9-6AD9-485D-8554-5A07BB509D42</string>
+		</dict>
+		<key>F87A8418-8DA0-47D1-BE4A-03FBE5BC4405</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>F87A8418-8DA0-47D1-BE4A-03FBE5BC4405.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440914.23773205</real>
+			<key>timeStoppedRecording</key>
+			<real>658440914.24487996</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>F87A8418-8DA0-47D1-BE4A-03FBE5BC4405</string>
+		</dict>
+		<key>FA7FEB9A-C112-4164-9A9B-682C0D12EC25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FA7FEB9A-C112-4164-9A9B-682C0D12EC25.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658441020.26235199</real>
+			<key>timeStoppedRecording</key>
+			<real>658441020.27292395</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FA7FEB9A-C112-4164-9A9B-682C0D12EC25</string>
+		</dict>
+		<key>FE12FFA1-B03B-46CA-BAA1-92883B3A4337</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FE12FFA1-B03B-46CA-BAA1-92883B3A4337.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658439474.20734298</real>
+			<key>timeStoppedRecording</key>
+			<real>658439474.21971595</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FE12FFA1-B03B-46CA-BAA1-92883B3A4337</string>
+		</dict>
+		<key>FE66C962-95C3-4E88-8A2A-7464CB9AC8C0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FE66C962-95C3-4E88-8A2A-7464CB9AC8C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440132.45695901</real>
+			<key>timeStoppedRecording</key>
+			<real>658440132.46503496</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FE66C962-95C3-4E88-8A2A-7464CB9AC8C0</string>
+		</dict>
+		<key>FEF2657B-A5A6-43F9-B0A8-1926840E5342</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>FEF2657B-A5A6-43F9-B0A8-1926840E5342.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>GameEngine Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>658440148.05751097</real>
+			<key>timeStoppedRecording</key>
+			<real>658440148.06537604</real>
+			<key>title</key>
+			<string>GameEngine Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>FEF2657B-A5A6-43F9-B0A8-1926840E5342</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

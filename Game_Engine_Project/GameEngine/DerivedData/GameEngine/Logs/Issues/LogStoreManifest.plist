@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>794399E3-78E1-4416-A29E-E124AE3142AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>794399E3-78E1-4416-A29E-E124AE3142AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>GameEngine-didlplelgvhdnefttawlraynuyrz</string>
+			<key>timeStartedRecording</key>
+			<real>658443016.46287</real>
+			<key>timeStoppedRecording</key>
+			<real>658443017.00401902</real>
+			<key>title</key>
+			<string>Build target GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>794399E3-78E1-4416-A29E-E124AE3142AF</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

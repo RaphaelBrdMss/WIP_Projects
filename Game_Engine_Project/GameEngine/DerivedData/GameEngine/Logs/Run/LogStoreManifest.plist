@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>13CD218A-2A10-491D-AD0F-21DB7C17CA97</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>13CD218A-2A10-491D-AD0F-21DB7C17CA97.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658441834.29108405</real>
+			<key>timeStoppedRecording</key>
+			<real>658441940.22136796</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>13CD218A-2A10-491D-AD0F-21DB7C17CA97</string>
+		</dict>
+		<key>29EE8CF2-2916-478E-A98F-AAE4B1844F3B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>29EE8CF2-2916-478E-A98F-AAE4B1844F3B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658442044.23205996</real>
+			<key>timeStoppedRecording</key>
+			<real>658443019.456514</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>29EE8CF2-2916-478E-A98F-AAE4B1844F3B</string>
+		</dict>
+		<key>50DE02DD-2413-4916-B4BC-FF456D336F8F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>50DE02DD-2413-4916-B4BC-FF456D336F8F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658441600.91838002</real>
+			<key>timeStoppedRecording</key>
+			<real>658441668.58224499</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>50DE02DD-2413-4916-B4BC-FF456D336F8F</string>
+		</dict>
+		<key>830E498A-6598-4336-B8B1-369C2B1B88D4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>830E498A-6598-4336-B8B1-369C2B1B88D4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658443024.15244699</real>
+			<key>timeStoppedRecording</key>
+			<real>658443153.37644303</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>830E498A-6598-4336-B8B1-369C2B1B88D4</string>
+		</dict>
+		<key>8A547A7F-88EB-4CD0-BD1A-6CD8FB97503F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8A547A7F-88EB-4CD0-BD1A-6CD8FB97503F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658441801.27108502</real>
+			<key>timeStoppedRecording</key>
+			<real>658441833.74709594</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>8A547A7F-88EB-4CD0-BD1A-6CD8FB97503F</string>
+		</dict>
+		<key>96BBCAFA-7FD2-4047-BC98-BCC9F754E2EF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>96BBCAFA-7FD2-4047-BC98-BCC9F754E2EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658441940.76568902</real>
+			<key>timeStoppedRecording</key>
+			<real>658441948.14745903</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>96BBCAFA-7FD2-4047-BC98-BCC9F754E2EF</string>
+		</dict>
+		<key>AF5AAB6F-F38B-41BE-B4EE-1DF45693BAA9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AF5AAB6F-F38B-41BE-B4EE-1DF45693BAA9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658441669.02809203</real>
+			<key>timeStoppedRecording</key>
+			<real>658441674.20103395</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>AF5AAB6F-F38B-41BE-B4EE-1DF45693BAA9</string>
+		</dict>
+		<key>E3B8094D-D6A0-4DD7-B994-E2A77D066A22</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E3B8094D-D6A0-4DD7-B994-E2A77D066A22.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658426598.370857</real>
+			<key>timeStoppedRecording</key>
+			<real>658426615.87619996</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>E3B8094D-D6A0-4DD7-B994-E2A77D066A22</string>
+		</dict>
+		<key>E84365A0-5F46-43F1-8C09-8DAAF70142DD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E84365A0-5F46-43F1-8C09-8DAAF70142DD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658441740.30783498</real>
+			<key>timeStoppedRecording</key>
+			<real>658441800.71657896</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>E84365A0-5F46-43F1-8C09-8DAAF70142DD</string>
+		</dict>
+		<key>EDAA1600-51D1-4017-A55D-ABD8DE947B31</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EDAA1600-51D1-4017-A55D-ABD8DE947B31.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658442025.32587004</real>
+			<key>timeStoppedRecording</key>
+			<real>658442043.68893802</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>EDAA1600-51D1-4017-A55D-ABD8DE947B31</string>
+		</dict>
+		<key>F2E65798-BB85-4729-94FD-944E5D8A83CA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F2E65798-BB85-4729-94FD-944E5D8A83CA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658441674.83066201</real>
+			<key>timeStoppedRecording</key>
+			<real>658441678.46839201</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>F2E65798-BB85-4729-94FD-944E5D8A83CA</string>
+		</dict>
+		<key>FC1734DA-9EE2-4F15-AE98-E6B90ABA958A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FC1734DA-9EE2-4F15-AE98-E6B90ABA958A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>658443325.66353595</real>
+			<key>timeStoppedRecording</key>
+			<real>658443330.97815001</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>FC1734DA-9EE2-4F15-AE98-E6B90ABA958A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
