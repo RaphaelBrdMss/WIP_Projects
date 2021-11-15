@@ -15,7 +15,7 @@ import SwiftUI
 struct ImagePick : UIViewControllerRepresentable {
     @Binding var isShown : Bool
     @Binding var imagePicked : Image?
-    var sourceType : UIImagePickerController.SourceType = .camera
+    var sourceType : UIImagePickerController.SourceType = .photoLibrary // TODO cam
     
     func updateUIViewController(_ uiViewController: UIViewControllerType, context: UIViewControllerRepresentableContext<ImagePick>) {
         

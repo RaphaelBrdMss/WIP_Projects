@@ -21,8 +21,8 @@ struct TitlePage: View {
             .foregroundColor(Color.white)
             .multilineTextAlignment(.center)
         
-        Image("IMG_6389")
-            .aspectRatio(contentMode: .fit)
+        Image("IMG_6389").resizable()
+            .scaledToFit()
             
             Button("Prendre une photo") {
                 self.showContentView = true
