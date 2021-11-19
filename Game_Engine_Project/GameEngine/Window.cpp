@@ -6,8 +6,9 @@
 //
 
 #include "Window.hpp"
+#include <stdexcept>
 
-namespace Vwin{
+namespace vulkbrad{
 
 VulkWindow::VulkWindow(int windowWidth, int windowHeight, std::string windoName) : WW{windowWidth}, WH{windowHeight}, name{windoName}{
     
@@ -24,6 +25,12 @@ void VulkWindow::initWindow(){
     glfwWindowHint(GLFW_RESIZABLE, GLFW_FALSE);
     
     window = glfwCreateWindow(WW, WH, name.c_str(), nullptr, nullptr);
+}
+
+void VulkWindow::createWinSurface(VkInstance instance, VkSurfaceKHR *surface){
+    if(glfwCreateWindowSurface(instance, window, nullptr, surface) != VK_SUCCESS){
+        throw std::runtime_error("fail to creat surface");
+    }
 }
 
 }

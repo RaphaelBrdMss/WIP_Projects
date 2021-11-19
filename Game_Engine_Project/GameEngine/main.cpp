@@ -3,9 +3,9 @@
 #include <cstdlib>
 #include <iostream>
 #include <stdexcept>
-using namespace Vwin;
+using namespace vulkbrad;
 int main(){
-    App testapp{};
+    vulkbrad::App testapp{};
     try{
         testapp.run();
     }catch (const std::exception &e){

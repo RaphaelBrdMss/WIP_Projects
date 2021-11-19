@@ -13,7 +13,7 @@
 #include <string>
  
 
-namespace Vwin {
+namespace vulkbrad {
 class VulkWindow{
     
     public :
@@ -24,6 +24,9 @@ class VulkWindow{
     VulkWindow &operator = (const VulkWindow &) =delete; 
     
     bool shouldClose(){ return glfwWindowShouldClose(window); }
+    VkExtent2D getScaleWindow() { return {static_cast<uint32_t>(WW), static_cast<uint32_t>(WH)};}
+    
+    void createWinSurface(VkInstance instance, VkSurfaceKHR *surface);
     private :
     GLFWwindow *window;
     void initWindow();
