@@ -79,7 +79,7 @@ void App::createCommandBuffers(){
         renderPassInfo.renderArea.offset = {0,0};
         renderPassInfo.renderArea.extent = BradEngineSwapChain.getSwapChainExtent();
         std::array<VkClearValue, 2> clearValues{};
-        clearValues[0].color = {0.1f,0.1f,0.1f,1.0f};
+        clearValues[0].color = {0.1f,0.1f,0.1f,0.1f};
         clearValues[1].depthStencil = {1.0f, 0};
         renderPassInfo.clearValueCount = static_cast<uint32_t>(clearValues.size());
         renderPassInfo.pClearValues = clearValues.data();

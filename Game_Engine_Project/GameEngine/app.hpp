@@ -41,7 +41,7 @@ class App{
     void drawFrame();
     
     
-    VulkWindow vulkWindow{w,h,"hey bitch that's vulkan"};
+    VulkWindow vulkWindow{w,h,"hey that's vulkan"};
     BradEngineDevice BradEngineDevice{vulkWindow};
     BradEngineSwapChain BradEngineSwapChain{BradEngineDevice, vulkWindow.getScaleWindow()};
     std::unique_ptr<V_Pipeline> pipeline; // BradCom : smart pointer simulate a pointer with addition automatic memory management we are no longer responsable for new and delete
