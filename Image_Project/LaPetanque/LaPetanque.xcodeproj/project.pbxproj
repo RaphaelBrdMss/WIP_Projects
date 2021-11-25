@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		95FCCB14274130160022213B /* TitlePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95FCCB13274130160022213B /* TitlePage.swift */; };
+		C32761D8274C40D3002972B1 /* Motion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32761D7274C40D3002972B1 /* Motion.swift */; };
 		C32B24F727392307009676C5 /* LaPetanqueApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32B24F627392307009676C5 /* LaPetanqueApp.swift */; };
 		C32B24F927392307009676C5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32B24F827392307009676C5 /* ContentView.swift */; };
 		C32B24FB27392307009676C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C32B24FA27392307009676C5 /* Assets.xcassets */; };
@@ -44,6 +45,7 @@
 
 /* Begin PBXFileReference section */
 		95FCCB13274130160022213B /* TitlePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitlePage.swift; sourceTree = "<group>"; };
+		C32761D7274C40D3002972B1 /* Motion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Motion.swift; sourceTree = "<group>"; };
 		C32B24F327392307009676C5 /* LaPetanque.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LaPetanque.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C32B24F627392307009676C5 /* LaPetanqueApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaPetanqueApp.swift; sourceTree = "<group>"; };
 		C32B24F827392307009676C5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; tabWidth = 4; };
@@ -129,6 +131,7 @@
 				95FCCB13274130160022213B /* TitlePage.swift */,
 				C32B24F627392307009676C5 /* LaPetanqueApp.swift */,
 				C32B24F827392307009676C5 /* ContentView.swift */,
+				C32761D7274C40D3002972B1 /* Motion.swift */,
 				C36F560A273C64E600DDD8DB /* PhotoCapture.swift */,
 				C36F5608273C3B7D00DDD8DB /* Picker.swift */,
 				C32B24FA27392307009676C5 /* Assets.xcassets */,
@@ -311,6 +314,7 @@
 				C36F560B273C64E600DDD8DB /* PhotoCapture.swift in Sources */,
 				95FCCB14274130160022213B /* TitlePage.swift in Sources */,
 				C36F5609273C3B7D00DDD8DB /* Picker.swift in Sources */,
+				C32761D8274C40D3002972B1 /* Motion.swift in Sources */,
 				C32B252F27392529009676C5 /* Wrapper.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

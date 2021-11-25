@@ -6,12 +6,14 @@
 //
 
 #include "app.hpp"
+
 #include <stdexcept>
 #include <array>
 
 namespace vulkbrad{
 
 App::App(){
+    loadModels();
     createPipeline_Layout();
     createPipline();
     createCommandBuffers();
@@ -27,6 +29,16 @@ void App::run(){
     }
     
     vkDeviceWaitIdle(BradEngineDevice.device());
+}
+
+void App::loadModels(){
+    std::vector<BradModel::Vertex> vertices{
+        {{0.0f,-.90f}},
+        {{.90f,.90f}},
+        {{-.90f,.90f}}
+    };
+    
+    bradModel = std::make_unique<BradModel>(BradEngineDevice, vertices);
 }
 
 void App::createPipeline_Layout(){
@@ -88,7 +100,8 @@ void App::createCommandBuffers(){
         
         
         pipeline->bind(commandBuffers[i]);
-        vkCmdDraw(commandBuffers[i], 3, 1, 0, 0); // Bradcom : draw 3 vertices in one instances.
+        bradModel->bind(commandBuffers[i]);
+        bradModel->draw(commandBuffers[i]);
         
         vkCmdEndRenderPass(commandBuffers[i]);
         if(vkEndCommandBuffer(commandBuffers[i]) != VK_SUCCESS ){

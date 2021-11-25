@@ -7,7 +7,8 @@
 
 #ifndef app_hpp
 #define app_hpp
-
+#include "app.hpp"
+#include "BradModel.hpp"
 #include <stdio.h>
 #include "Window.hpp"
 #include "V_pipeline.hpp"
@@ -34,7 +35,7 @@ class App{
     void run();
     
     private :
-    
+    void loadModels();
     void createPipeline_Layout();
     void createPipline();
     void createCommandBuffers();
@@ -47,8 +48,8 @@ class App{
     std::unique_ptr<V_Pipeline> pipeline; // BradCom : smart pointer simulate a pointer with addition automatic memory management we are no longer responsable for new and delete
     VkPipelineLayout pipelineLayout;
     std::vector<VkCommandBuffer> commandBuffers;
+    std::unique_ptr<BradModel> bradModel;
     
-     
 
 };
 }

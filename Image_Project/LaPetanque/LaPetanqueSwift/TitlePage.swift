@@ -15,14 +15,14 @@ struct TitlePage: View {
             ContentView()
         }
         else {
-        Text("LA PETANQUE")
-            .font(.title)
-            .fontWeight(.bold)
-            .foregroundColor(Color.white)
-            .multilineTextAlignment(.center)
-        
-        Image("IMG_6389").resizable()
-            .scaledToFit()
+            Text("LA PETANQUE")
+                .font(.title)
+                .fontWeight(.bold)
+                .foregroundColor(Color.white)
+                .multilineTextAlignment(.center)
+            
+            Image("IMG_6389").resizable()
+                .scaledToFit()
             
             Button("Prendre une photo") {
                 self.showContentView = true

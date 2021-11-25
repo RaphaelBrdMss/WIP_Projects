@@ -12,6 +12,8 @@
 #include <stdexcept>
 #include <iostream>
 #include <cassert>
+#include "BradModel.hpp"
+ 
 
 
 namespace vulkbrad {
@@ -71,13 +73,14 @@ void V_Pipeline::initGraphicsPipline (const std::string& vertPath, const std::st
     shaderStages[1].pNext = nullptr;
     shaderStages[1].pSpecializationInfo = nullptr;
     
-    
+    auto bindingDescriptions = BradModel::Vertex::getBindingDescriptions();
+    auto attributeDescription = BradModel::Vertex::getAttributDescriptions();
     VkPipelineVertexInputStateCreateInfo vertex_InputInfo{};
     vertex_InputInfo.sType = VK_STRUCTURE_TYPE_PIPELINE_VERTEX_INPUT_STATE_CREATE_INFO;
-    vertex_InputInfo.vertexBindingDescriptionCount =0;
-    vertex_InputInfo.vertexAttributeDescriptionCount =0;
-    vertex_InputInfo.pVertexAttributeDescriptions= nullptr;
-    vertex_InputInfo.pVertexBindingDescriptions  = nullptr;
+    vertex_InputInfo.vertexBindingDescriptionCount = static_cast<uint32_t>(bindingDescriptions.size());
+    vertex_InputInfo.vertexAttributeDescriptionCount =static_cast<uint32_t>(attributeDescription.size());
+    vertex_InputInfo.pVertexAttributeDescriptions= attributeDescription.data();
+    vertex_InputInfo.pVertexBindingDescriptions  = bindingDescriptions.data();
     
 
     
