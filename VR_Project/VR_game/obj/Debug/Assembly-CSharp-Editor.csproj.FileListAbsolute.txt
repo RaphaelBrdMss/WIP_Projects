@@ -1,0 +1,2 @@
+/Users/raphaelbraud-mussi/Documents/GitHub/University_Projects/WIP_Projects/VR_Project/VR_game/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache
+/Users/raphaelbraud-mussi/Documents/GitHub/University_Projects/WIP_Projects/VR_Project/VR_game/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache

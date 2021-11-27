@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{B3FA66EF-6A1D-E6BC-E0E6-2E3B4F712E39}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BackUp_HeadSet.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.xr.core-utils@2.0.0-pre.5/Runtime/XROrigin.cs" Line="512" Column="1" />
+      <File FileName="Assets/Scripts/BackUp_HeadSet.cs" Line="29" Column="97" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VR_game" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3b7b65b6-969f-4425-8ed0-9a30c44734e9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
