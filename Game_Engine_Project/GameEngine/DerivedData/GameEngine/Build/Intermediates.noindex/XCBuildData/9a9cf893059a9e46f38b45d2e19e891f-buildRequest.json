@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "97d40eb77aa6483e19a330df7057332c8383bcc2382721e46e26abe7ca437118"
+    }
+  ],
+  "containerPath" : "/Users/raphaelbraud-mussi/Desktop/Cours_M2_S1/Projet_Moteur/GameEngine/GameEngine.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/raphaelbraud-mussi/Desktop/Cours_M2_S1/Projet_Moteur/GameEngine/DerivedData/GameEngine/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/raphaelbraud-mussi/Desktop/Cours_M2_S1/Projet_Moteur/GameEngine/DerivedData/GameEngine/Build/Products",
+      "derivedDataPath" : "/Users/raphaelbraud-mussi/Desktop/Cours_M2_S1/Projet_Moteur/GameEngine/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/raphaelbraud-mussi/Desktop/Cours_M2_S1/Projet_Moteur/GameEngine/DerivedData/GameEngine/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/raphaelbraud-mussi/Desktop/Cours_M2_S1/Projet_Moteur/GameEngine/DerivedData/GameEngine/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/raphaelbraud-mussi/Desktop/Cours_M2_S1/Projet_Moteur/GameEngine/DerivedData/GameEngine/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>08A589E3-6A9D-42B5-AF64-769A67B0FE90</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>08A589E3-6A9D-42B5-AF64-769A67B0FE90.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>660214941.81080306</real>
+			<key>timeStoppedRecording</key>
+			<real>660214957.143718</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>08A589E3-6A9D-42B5-AF64-769A67B0FE90</string>
+		</dict>
+		<key>CD2068B9-46D2-41A5-A5F2-F2F44F95C527</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CD2068B9-46D2-41A5-A5F2-F2F44F95C527.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>GameEngine project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>GameEngine</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Run GameEngine</string>
+			<key>timeStartedRecording</key>
+			<real>660165191.04923499</real>
+			<key>timeStoppedRecording</key>
+			<real>660165194.68924606</real>
+			<key>title</key>
+			<string>Run GameEngine</string>
+			<key>uniqueIdentifier</key>
+			<string>CD2068B9-46D2-41A5-A5F2-F2F44F95C527</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

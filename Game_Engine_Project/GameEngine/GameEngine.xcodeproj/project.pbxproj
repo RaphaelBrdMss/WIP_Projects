@@ -1,0 +1,427 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C333905C273839D600395668 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C333905B273839D600395668 /* main.cpp */; };
+		C333906427383AA500395668 /* libglfw.3.3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C333906327383AA500395668 /* libglfw.3.3.dylib */; };
+		C333906627383AB100395668 /* libvulkan.1.2.189.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C333906527383AB100395668 /* libvulkan.1.2.189.dylib */; };
+		C333906827383AB200395668 /* libvulkan.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C333906727383AB200395668 /* libvulkan.1.dylib */; };
+		C333906A27383AB900395668 /* libvulkan.1.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = C333906927383AB900395668 /* libvulkan.1.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		C333906D27383ACE00395668 /* libvulkan.1.2.189.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = C333906C27383ACE00395668 /* libvulkan.1.2.189.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		C333906F27383AD900395668 /* libglfw.3.3.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = C333906E27383AD900395668 /* libglfw.3.3.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		C389A5A627494B21001A96BB /* BradModel.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C389A5A427494B21001A96BB /* BradModel.cpp */; };
+		C38CF2FE27468AF0009EA83D /* BradEngineDevice.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C38CF2FC27468AF0009EA83D /* BradEngineDevice.cpp */; };
+		C38CF3022746B635009EA83D /* libMoltenVK.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = C38CF3012746B635009EA83D /* libMoltenVK.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		C38CF3082746F1A3009EA83D /* BradEngineSwapChain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C38CF3072746F1A3009EA83D /* BradEngineSwapChain.cpp */; };
+		C38CF30A274712F5009EA83D /* libVkLayer_khronos_validation.dylib in Copy Files */ = {isa = PBXBuildFile; fileRef = C38CF309274712F5009EA83D /* libVkLayer_khronos_validation.dylib */; settings = {ATTRIBUTES = (CodeSignOnCopy, ); }; };
+		C3FBBAAA273EBF5B00FEE857 /* Window.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3FBBAA9273EBF5B00FEE857 /* Window.cpp */; };
+		C3FBBAAD273EC32B00FEE857 /* app.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3FBBAAB273EC32B00FEE857 /* app.cpp */; };
+		C3FBBAB7273EFD2200FEE857 /* V_pipeline.cpp in Sources */ = {isa = PBXBuildFile; fileRef = C3FBBAB5273EFD2200FEE857 /* V_pipeline.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		C3339056273839D600395668 /* Copy Files */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 12;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				C333906F27383AD900395668 /* libglfw.3.3.dylib in Copy Files */,
+				C333906D27383ACE00395668 /* libvulkan.1.2.189.dylib in Copy Files */,
+				C333906A27383AB900395668 /* libvulkan.1.dylib in Copy Files */,
+				C38CF30A274712F5009EA83D /* libVkLayer_khronos_validation.dylib in Copy Files */,
+				C38CF3022746B635009EA83D /* libMoltenVK.dylib in Copy Files */,
+			);
+			name = "Copy Files";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		C3339058273839D600395668 /* GameEngine */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GameEngine; sourceTree = BUILT_PRODUCTS_DIR; };
+		C333905B273839D600395668 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		C333906327383AA500395668 /* libglfw.3.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.3.dylib; path = ../../../../../../opt/homebrew/Cellar/glfw/3.3.4/lib/libglfw.3.3.dylib; sourceTree = "<group>"; };
+		C333906527383AB100395668 /* libvulkan.1.2.189.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libvulkan.1.2.189.dylib; path = ../../../../Dev_Stuff/Vulkan/VulkanSDK/1.2.189.0/macOS/lib/libvulkan.1.2.189.dylib; sourceTree = "<group>"; };
+		C333906727383AB200395668 /* libvulkan.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libvulkan.1.dylib; path = ../../../../Dev_Stuff/Vulkan/VulkanSDK/1.2.189.0/macOS/lib/libvulkan.1.dylib; sourceTree = "<group>"; };
+		C333906927383AB900395668 /* libvulkan.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libvulkan.1.dylib; path = ../../../../Dev_Stuff/Vulkan/VulkanSDK/1.2.189.0/macOS/lib/libvulkan.1.dylib; sourceTree = "<group>"; };
+		C333906B27383AC500395668 /* libvulkan.1.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libvulkan.1.dylib; path = ../../../../Dev_Stuff/Vulkan/VulkanSDK/1.2.189.0/macOS/lib/libvulkan.1.dylib; sourceTree = "<group>"; };
+		C333906C27383ACE00395668 /* libvulkan.1.2.189.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libvulkan.1.2.189.dylib; path = ../../../../Dev_Stuff/Vulkan/VulkanSDK/1.2.189.0/macOS/lib/libvulkan.1.2.189.dylib; sourceTree = "<group>"; };
+		C333906E27383AD900395668 /* libglfw.3.3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.3.dylib; path = ../../../../../../opt/homebrew/Cellar/glfw/3.3.4/lib/libglfw.3.3.dylib; sourceTree = "<group>"; };
+		C389A5A427494B21001A96BB /* BradModel.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = BradModel.cpp; path = GameEngine/BradModel.cpp; sourceTree = SOURCE_ROOT; };
+		C389A5A527494B21001A96BB /* BradModel.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = BradModel.hpp; path = GameEngine/BradModel.hpp; sourceTree = SOURCE_ROOT; };
+		C38CF2FC27468AF0009EA83D /* BradEngineDevice.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BradEngineDevice.cpp; path = GameEngine/BradEngineDevice.cpp; sourceTree = SOURCE_ROOT; };
+		C38CF2FD27468AF0009EA83D /* BradEngineDevice.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = BradEngineDevice.hpp; path = GameEngine/BradEngineDevice.hpp; sourceTree = SOURCE_ROOT; };
+		C38CF3012746B635009EA83D /* libMoltenVK.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libMoltenVK.dylib; sourceTree = "<group>"; };
+		C38CF3062746F1A3009EA83D /* BradEngineSwapChain.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; name = BradEngineSwapChain.hpp; path = GameEngine/BradEngineSwapChain.hpp; sourceTree = SOURCE_ROOT; };
+		C38CF3072746F1A3009EA83D /* BradEngineSwapChain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = BradEngineSwapChain.cpp; path = GameEngine/BradEngineSwapChain.cpp; sourceTree = SOURCE_ROOT; };
+		C38CF309274712F5009EA83D /* libVkLayer_khronos_validation.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libVkLayer_khronos_validation.dylib; sourceTree = "<group>"; };
+		C3AFB00827592E4400358A19 /* Vertex_shader.vert.spv */ = {isa = PBXFileReference; lastKnownFileType = file; path = Vertex_shader.vert.spv; sourceTree = "<group>"; };
+		C3AFB00927592E4400358A19 /* Frag_shader.frag.spv */ = {isa = PBXFileReference; lastKnownFileType = file; path = Frag_shader.frag.spv; sourceTree = "<group>"; };
+		C3FBBAA8273EBC2600FEE857 /* Window.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = Window.hpp; path = GameEngine/Window.hpp; sourceTree = SOURCE_ROOT; };
+		C3FBBAA9273EBF5B00FEE857 /* Window.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Window.cpp; path = GameEngine/Window.cpp; sourceTree = SOURCE_ROOT; };
+		C3FBBAAB273EC32B00FEE857 /* app.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = app.cpp; path = GameEngine/app.cpp; sourceTree = SOURCE_ROOT; };
+		C3FBBAAC273EC32B00FEE857 /* app.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = app.hpp; path = GameEngine/app.hpp; sourceTree = SOURCE_ROOT; };
+		C3FBBAAF273EF72400FEE857 /* Vertex_shader.vert */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = Vertex_shader.vert; sourceTree = "<group>"; };
+		C3FBBAB1273EF8D800FEE857 /* Frag_shader.frag */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = Frag_shader.frag; sourceTree = "<group>"; };
+		C3FBBAB2273EF9F000FEE857 /* compile.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = compile.sh; path = GameEngine/compile.sh; sourceTree = SOURCE_ROOT; };
+		C3FBBAB5273EFD2200FEE857 /* V_pipeline.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = V_pipeline.cpp; path = GameEngine/V_pipeline.cpp; sourceTree = SOURCE_ROOT; };
+		C3FBBAB6273EFD2200FEE857 /* V_pipeline.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; name = V_pipeline.hpp; path = GameEngine/V_pipeline.hpp; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C3339055273839D600395668 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C333906427383AA500395668 /* libglfw.3.3.dylib in Frameworks */,
+				C333906827383AB200395668 /* libvulkan.1.dylib in Frameworks */,
+				C333906627383AB100395668 /* libvulkan.1.2.189.dylib in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C333904F273839D600395668 = {
+			isa = PBXGroup;
+			children = (
+				C38CF309274712F5009EA83D /* libVkLayer_khronos_validation.dylib */,
+				C38CF3012746B635009EA83D /* libMoltenVK.dylib */,
+				C333906E27383AD900395668 /* libglfw.3.3.dylib */,
+				C333906C27383ACE00395668 /* libvulkan.1.2.189.dylib */,
+				C333906927383AB900395668 /* libvulkan.1.dylib */,
+				C333906B27383AC500395668 /* libvulkan.1.dylib */,
+				C333905A273839D600395668 /* GameEngine */,
+				C3339059273839D600395668 /* Products */,
+				C333906227383AA500395668 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		C3339059273839D600395668 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C3339058273839D600395668 /* GameEngine */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C333905A273839D600395668 /* GameEngine */ = {
+			isa = PBXGroup;
+			children = (
+				C3FBBAAE273EF69900FEE857 /* shaders */,
+				C333905B273839D600395668 /* main.cpp */,
+				C3FBBAAB273EC32B00FEE857 /* app.cpp */,
+				C3FBBAAC273EC32B00FEE857 /* app.hpp */,
+				C3FBBAA8273EBC2600FEE857 /* Window.hpp */,
+				C3FBBAA9273EBF5B00FEE857 /* Window.cpp */,
+				C3FBBAB2273EF9F000FEE857 /* compile.sh */,
+				C3FBBAB5273EFD2200FEE857 /* V_pipeline.cpp */,
+				C3FBBAB6273EFD2200FEE857 /* V_pipeline.hpp */,
+				C38CF3072746F1A3009EA83D /* BradEngineSwapChain.cpp */,
+				C38CF3062746F1A3009EA83D /* BradEngineSwapChain.hpp */,
+				C38CF2FC27468AF0009EA83D /* BradEngineDevice.cpp */,
+				C38CF2FD27468AF0009EA83D /* BradEngineDevice.hpp */,
+				C389A5A427494B21001A96BB /* BradModel.cpp */,
+				C389A5A527494B21001A96BB /* BradModel.hpp */,
+			);
+			name = GameEngine;
+			path = "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk/../../../../../../../../../Users/raphaelbraud-mussi/Desktop/Cours_M2_S1/Projet_Moteur/GameEngine/GameEngine";
+			sourceTree = "<absolute>";
+		};
+		C333906227383AA500395668 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C333906727383AB200395668 /* libvulkan.1.dylib */,
+				C333906527383AB100395668 /* libvulkan.1.2.189.dylib */,
+				C333906327383AA500395668 /* libglfw.3.3.dylib */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C3FBBAAE273EF69900FEE857 /* shaders */ = {
+			isa = PBXGroup;
+			children = (
+				C3FBBAAF273EF72400FEE857 /* Vertex_shader.vert */,
+				C3AFB00927592E4400358A19 /* Frag_shader.frag.spv */,
+				C3AFB00827592E4400358A19 /* Vertex_shader.vert.spv */,
+				C3FBBAB1273EF8D800FEE857 /* Frag_shader.frag */,
+			);
+			name = shaders;
+			path = "/Users/raphaelbraud-mussi/Desktop/Cours_M2_S1/Projet_Moteur/GameEngine/GameEngine/shaders";
+			sourceTree = "<absolute>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C3339057273839D600395668 /* GameEngine */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C333905F273839D600395668 /* Build configuration list for PBXNativeTarget "GameEngine" */;
+			buildPhases = (
+				C3339055273839D600395668 /* Frameworks */,
+				C3339056273839D600395668 /* Copy Files */,
+				C3339054273839D600395668 /* Sources */,
+				C389A5A3274947DC001A96BB /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GameEngine;
+			productName = GameEngine;
+			productReference = C3339058273839D600395668 /* GameEngine */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C3339050273839D600395668 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					C3339057273839D600395668 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+				};
+			};
+			buildConfigurationList = C3339053273839D600395668 /* Build configuration list for PBXProject "GameEngine" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C333904F273839D600395668;
+			productRefGroup = C3339059273839D600395668 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C3339057273839D600395668 /* GameEngine */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		C389A5A3274947DC001A96BB /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C3339054273839D600395668 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C38CF3082746F1A3009EA83D /* BradEngineSwapChain.cpp in Sources */,
+				C3FBBAAD273EC32B00FEE857 /* app.cpp in Sources */,
+				C333905C273839D600395668 /* main.cpp in Sources */,
+				C389A5A627494B21001A96BB /* BradModel.cpp in Sources */,
+				C3FBBAAA273EBF5B00FEE857 /* Window.cpp in Sources */,
+				C3FBBAB7273EFD2200FEE857 /* V_pipeline.cpp in Sources */,
+				C38CF2FE27468AF0009EA83D /* BradEngineDevice.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		C333905D273839D600395668 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		C333905E273839D600395668 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		C3339060273839D600395668 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U7Q5GBC425;
+				ENABLE_HARDENED_RUNTIME = YES;
+				HEADER_SEARCH_PATHS = (
+					/opt/homebrew/Cellar/glfw/3.3.4/include,
+					"/Users/raphaelbraud-mussi/Dev_Stuff/Vulkan/VulkanSDK/1.2.189.0/macOS/include",
+					/opt/homebrew/Cellar/glm/0.9.9.8/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					/opt/homebrew/Cellar/glfw/3.3.4/lib,
+					"/Users/raphaelbraud-mussi/Dev_Stuff/Vulkan/VulkanSDK/1.2.189.0/macOS/lib",
+					/opt/homebrew/Cellar/glm/0.9.9.8/lib,
+				);
+				"LINK_WITH_STANDARD_LIBRARIES[arch=*]" = YES;
+				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		C3339061273839D600395668 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = U7Q5GBC425;
+				ENABLE_HARDENED_RUNTIME = YES;
+				HEADER_SEARCH_PATHS = (
+					/opt/homebrew/Cellar/glfw/3.3.4/include,
+					"/Users/raphaelbraud-mussi/Dev_Stuff/Vulkan/VulkanSDK/1.2.189.0/macOS/include",
+					/opt/homebrew/Cellar/glm/0.9.9.8/include,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					/opt/homebrew/Cellar/glfw/3.3.4/lib,
+					"/Users/raphaelbraud-mussi/Dev_Stuff/Vulkan/VulkanSDK/1.2.189.0/macOS/lib",
+					/opt/homebrew/Cellar/glm/0.9.9.8/lib,
+				);
+				OTHER_LDFLAGS = "$(inherited)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C3339053273839D600395668 /* Build configuration list for PBXProject "GameEngine" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C333905D273839D600395668 /* Debug */,
+				C333905E273839D600395668 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C333905F273839D600395668 /* Build configuration list for PBXNativeTarget "GameEngine" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C3339060273839D600395668 /* Debug */,
+				C3339061273839D600395668 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C3339050273839D600395668 /* Project object */;
+}
