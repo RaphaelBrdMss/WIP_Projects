@@ -1,20 +1,26 @@
 ﻿<Properties StartupConfiguration="{B3FA66EF-6A1D-E6BC-E0E6-2E3B4F712E39}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BackUp_HeadSet.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Action_Map/MouseLook.cs">
     <Files>
-      <File FileName="Library/PackageCache/com.unity.xr.core-utils@2.0.0-pre.5/Runtime/XROrigin.cs" Line="512" Column="1" />
-      <File FileName="Assets/Scripts/BackUp_HeadSet.cs" Line="29" Column="97" />
+      <File FileName="Assets/Action_Map/NoVrMove.cs" Line="10" Column="45" />
+      <File FileName="Assets/Action_Map/InputManager.cs" />
+      <File FileName="Assets/Action_Map/MouseLook.cs" Line="9" Column="38" />
+      <File FileName="Assets/Action_Map/PlayersControl.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="VR_game" expanded="True" selected="True" />
+          <Node name="VR_game" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Action_Map" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3b7b65b6-969f-4425-8ed0-9a30c44734e9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e124e105-f936-4114-b0bc-9174925354e6" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
