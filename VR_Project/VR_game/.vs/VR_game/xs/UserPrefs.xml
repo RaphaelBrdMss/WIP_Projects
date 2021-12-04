@@ -2,16 +2,18 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Action_Map/MouseLook.cs">
     <Files>
       <File FileName="Assets/Action_Map/NoVrMove.cs" Line="10" Column="45" />
-      <File FileName="Assets/Action_Map/InputManager.cs" />
-      <File FileName="Assets/Action_Map/MouseLook.cs" Line="9" Column="38" />
+      <File FileName="Assets/Action_Map/InputManager.cs" Line="38" Column="42" />
+      <File FileName="Assets/Action_Map/MouseLook.cs" Line="8" Column="40" />
       <File FileName="Assets/Action_Map/PlayersControl.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VR_game" expanded="True">
-            <Node name="Assets" expanded="True" selected="True">
-              <Node name="Action_Map" expanded="True" />
+            <Node name="Assets" expanded="True">
+              <Node name="Action_Map" expanded="True">
+                <Node name="MouseLook.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

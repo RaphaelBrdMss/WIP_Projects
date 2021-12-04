@@ -27,6 +27,7 @@ struct TitlePage: View {
             Button("Prendre une photo") {
                 self.showContentView = true
             }
+           
         }
     }
 }

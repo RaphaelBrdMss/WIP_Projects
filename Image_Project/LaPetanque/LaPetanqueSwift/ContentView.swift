@@ -39,8 +39,6 @@ struct CameraUse : UIViewRepresentable{
         view.layer.addSublayer(cam.prev)
         cam.capture.startRunning()
         
-        
-        
         return view
     }
     
@@ -52,7 +50,7 @@ struct CameraUse : UIViewRepresentable{
                 let pitchMin = Float (round(manager.pitch*100)/100)
                 let rollMin = Float(round(manager.roll*100)/100)
                 
-                if(pitchMin <= 0.01 && rollMin <= 0.02){
+                if(pitchMin == 0.00 && rollMin == 0.00){
                     
                     cam.capturePhoto()
                     
@@ -152,9 +150,6 @@ struct viewManager: View{
         }else{
             //let _ = print("is taken true ")
             UiviewImage(cam: camera)
-            
-            
-            
         }
         
         
@@ -190,6 +185,8 @@ class CameraChecker : NSObject, AVCapturePhotoCaptureDelegate, ObservableObject 
             
             
         case .denied:
+            self.alert.toggle()
+        case .restricted:
             self.alert.toggle()
         @unknown default:
             return
@@ -277,9 +274,6 @@ class CameraChecker : NSObject, AVCapturePhotoCaptureDelegate, ObservableObject 
     
     
 }
-
-
-
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
