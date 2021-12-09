@@ -142,12 +142,14 @@ void tri_rapide(vector<boule>& boules){
             std::cout << "nb : " << cpt << "\n";
             std::cout << b.distCochonnet << "\n";
             
+            if( b.radius < 20 || b.radius> 40){
             cv::putText(imageMat, to_string(cpt), cv::Point(b.centre.x+30,b.centre.y+30), FONT_HERSHEY_PLAIN, 5.0, Scalar(250,0,50,255),2.0);
-            
             cv::circle( imageMat, b.centre, b.radius, Scalar(0,162,255,255), 4, LINE_AA);
             cv::circle( imageMat, b.centre, 1, Scalar(0,100,100,255), 8, LINE_AA);
             cv::line(imageMat, cv::Point(cochonet[0],cochonet[1]), cv::Point(b.centre), Scalar(0,0,0,255),3,LINE_AA);
             cpt++;
+            }
+            else { continue; }
                
         }
         else
