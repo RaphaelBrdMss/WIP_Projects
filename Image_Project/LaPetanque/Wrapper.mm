@@ -187,7 +187,7 @@ void tri_rapide(vector<boule>& boules){
     }
 
     
-    UIImage * processedImg = MatToUIImage(grayimg);
+    UIImage * processedImg = MatToUIImage(imageMat);
     
     
     return processedImg ;
